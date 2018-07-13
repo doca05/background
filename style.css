@@ -1,0 +1,61 @@
+/*Selector {
+    property: value;
+}
+paletton.com
+*/
+
+* {
+   text-align: right;
+}
+
+body {
+    background-image: url(milo%C5s%A1.jpg);
+    background-size: cover
+}
+
+p {    color: #FFB0AA;
+    text-align: center;
+    border: 5px solid rgb(255, 176, 170, 0.5);
+    cursor: pointer;
+} 
+
+
+p{
+    line-height: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: 'Kavivanar', cursive;
+    
+}
+
+img {
+    float: right;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext:first-child {
+    border: 5px dashed green;
+    
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: blue;
+}
+
+#div2 {
+    background: rgb(250, 175, 170, 0.5);
+}
